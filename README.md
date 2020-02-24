@@ -1,2 +1,2 @@
-# bokeh-practice
-bokeh-practice
+# Dive-into-matplotlib
+Dive-into-matplotlib
