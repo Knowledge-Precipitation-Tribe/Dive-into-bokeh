@@ -1,2 +1,2 @@
-# Dive-into-matplotlib
-Dive-into-matplotlib
+# Dive-into-bokeh
+Dive-into-bokeh
